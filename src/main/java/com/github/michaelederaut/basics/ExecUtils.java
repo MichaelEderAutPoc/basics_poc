@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.function.Consumer;
 import java.util.stream.Stream;
 
-import javax.swing.SwingWorker;  // not relevant for windows OS
+import javax.swing.SwingWorker;  // not relevant for Windows OS
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.SystemUtils;
@@ -31,7 +31,7 @@ public class ExecUtils {
 	protected static final Pattern P_end_request = Pattern.compile(S_re_end_request);
 	protected static final Pattern P_end_session = Pattern.compile(S_re_end_session);
 	
-	// TODO 
+	// TODO test_branch_01 
 	public static final StreamUtils.EndCriterion O_end_criterion_stderr = 
 			new StreamUtils.EndCriterion(
 					L_timeout_stderr,
