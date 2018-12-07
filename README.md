@@ -1,2 +1,2 @@
 # basics
-Basic Tools - Proof of Concepts - master 1
+Basic Tools - proof of concepts - master
