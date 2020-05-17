@@ -35,7 +35,7 @@ import static  org.apache.commons.lang3.StringUtils.LF;
 import static  org.apache.commons.lang3.SystemUtils.PATH_SEPARATOR;
 import static  org.apache.commons.lang3.SystemUtils.FILE_SEPARATOR;
 
-// push xxxxx
+// push xxx
 public class ToolsBasics {
 
 	public static final String FS    = FILE_SEPARATOR;
